@@ -1,0 +1,27 @@
+// LOCALHOST 
+
+### GET 
+http://localhost:3000/contacts
+
+ ### GET 
+ http://localhost:3000/contacts/63bb1e2d9a50a89d18c8933f 
+
+ ### GET 
+ http://localhost:3000/contacts/63bb1e4b9a50a89d18c89340 
+
+ ### GET 
+ http://localhost:3000/contacts/63bb1e659a50a89d18c89341
+
+// PRODUCTION Deploy 
+
+### GET 
+https://cse341-personal-two.glitch.me/contacts 
+
+### GET 
+https://cse341-personal-two.glitch.me/contacts/63bb1e2d9a50a89d18c8933f 
+
+### GET 
+https://cse341-personal-two.glitch.me/contacts/63bb1e4b9a50a89d18c89340 
+
+### GET 
+https://cse341-personal-two.glitch.me/contacts/63bb1e659a50a89d18c89341
