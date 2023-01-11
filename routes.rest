@@ -3,13 +3,13 @@
 ### GET 
 http://localhost:8080/contacts
 
- ### GET 
+ ### GET by ID
  http://localhost:8080/contacts/63bb1e2d9a50a89d18c8933f 
 
- ### GET 
+ ### GET GET by ID
  http://localhost:8080/contacts/63bb1e4b9a50a89d18c89340 
 
- ### GET 
+ ### GET GET by ID
  http://localhost:8080/contacts/63bb1e659a50a89d18c89341
 
 // PRODUCTION Deploy 
@@ -17,11 +17,11 @@ http://localhost:8080/contacts
 ### GET 
 https://cse341-personal-w02.onrender.com/contacts 
 
-### GET 
+### GET GET by ID
 https://cse341-personal-w02.onrender.com/contacts/63bb1e2d9a50a89d18c8933f 
 
-### GET 
+### GET GET by ID
 https://cse341-personal-w02.onrender.com/contacts/63bb1e4b9a50a89d18c89340 
 
-### GET 
+### GET GET by ID
 https://cse341-personal-w02.onrender.com/contacts/63bb1e659a50a89d18c89341
